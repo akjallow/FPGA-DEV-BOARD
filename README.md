@@ -1,6 +1,6 @@
 ## FPGA DSP SYSTEM-ON-MODULE
 
-A custom FPGA system-on-module designed around the Xilinx-7000 SOCs( 400 pin) for DSP applications.
+A custom FPGA system-on-module designed around the Xilinx-7000 SOCs( 400 pin BGA Package) for DSP applications.
 Implements Dual DDR3L ICs in a fly-by topology , Gigabit Ethernet, USB High-speed , FTDI , QSPI Flash and EMMC persistent storage.
 The Board is designed for reliable High-Speed operations by applying Controlled-Impedance Stack-Up design , strict Length-Matched Routing and Return-Path management.
 
