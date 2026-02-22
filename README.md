@@ -12,7 +12,7 @@ The Board is designed for reliable High-Speed operations by applying Controlled-
 <img width="656" height="355" alt="BOARD BOTTOM 3D" src="https://github.com/user-attachments/assets/6f1f24d3-7019-477a-b94c-799fbb7cff6f" />
 
 ### LAYOUT
-<img width="1140" height="638" alt="image" src="https://github.com/user-attachments/assets/d0eff587-2680-4ff5-a6ca-ef9a7ff7817e" />
+<img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/d0eff587-2680-4ff5-a6ca-ef9a7ff7817e" />
 
 
 
