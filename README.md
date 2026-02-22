@@ -11,11 +11,15 @@ The Board is designed for reliable High-Speed operations by applying Controlled-
 ### BOTTOM VIEW
 <img width="656" height="355" alt="BOARD BOTTOM 3D" src="https://github.com/user-attachments/assets/6f1f24d3-7019-477a-b94c-799fbb7cff6f" />
 
+### LAYOUT
+<img width="1140" height="638" alt="image" src="https://github.com/user-attachments/assets/d0eff587-2680-4ff5-a6ca-ef9a7ff7817e" />
+
+
 
 ## Key Features
 
 #### Processor:
-Xilinx 7000 serires FPGA XC7Z010-2CLG400I
+Xilinx 7000 series FPGA XC7Z010-2CLG400I
 #### PCB Stack-Up : 
 1-Signal / 2-GND / 3-PWR / 4-Signal / 5-GND /
 6-Signal / 7-GND / 8-Signal / 9-GND / 10-Signal.
