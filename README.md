@@ -9,14 +9,15 @@ The Board is designed for reliable High-Speed operations by applying Controlled-
 
 
 ### BOTTOM VIEW
-<img width="656" height="355" alt="BOARD BOTTOM 3D" src="https://github.com/user-attachments/assets/6f1f24d3-7019-477a-b94c-799fbb7cff6f" />
+<img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/838a17c7-7a4d-4294-a7a7-da73ccbc874c" />
+
 
 ### LAYOUT(TOP)
-<img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/d0eff587-2680-4ff5-a6ca-ef9a7ff7817e" />
 <img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/a252e542-14d3-4d4e-b709-75c2f50cb68f" />
 
 ### LAYOUT(BOTTOM)
-<img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/10ac4e09-33a8-4d8a-94e1-7dd0617fdc59" />
+<img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/dfbe1dbd-ef03-485b-b297-74668c3a94b1" />
+
 
 
 ## Key Features
