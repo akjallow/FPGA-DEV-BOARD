@@ -13,6 +13,7 @@ The Board is designed for reliable High-Speed operations by applying Controlled-
 
 ### LAYOUT(TOP)
 <img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/d0eff587-2680-4ff5-a6ca-ef9a7ff7817e" />
+<img width="1050" height="579" alt="image" src="https://github.com/user-attachments/assets/a252e542-14d3-4d4e-b709-75c2f50cb68f" />
 
 ### LAYOUT(BOTTOM)
 <img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/10ac4e09-33a8-4d8a-94e1-7dd0617fdc59" />
