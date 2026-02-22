@@ -5,21 +5,16 @@ Implements Dual DDR3L ICs in a fly-by topology , Gigabit Ethernet, USB High-spee
 The Board is designed for reliable High-Speed operations by applying Controlled-Impedance Stack-Up design , strict Length-Matched Routing and Return-Path management.
 
 ## TOP VIEW
-<img width="656" height="355" alt="BOARD 3D TOP" src="https://github.com/user-attachments/assets/b4661fea-00c7-4071-8653-920802029a8c" />
-
+<img width="656" height="355" alt="FPGA_DSP-DEVBOARD-1" src="https://github.com/user-attachments/assets/63d17017-3a7e-44d5-b72b-b0eb143e7e9b" />
 
 ### BOTTOM VIEW
 <img width="656" height="355" alt="FPGA_DSP-DEVBOARD-0" src="https://github.com/user-attachments/assets/3324436c-8cc5-4aac-9645-53119346de3f" />
-
-
 
 ### LAYOUT(TOP)
 <img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/a252e542-14d3-4d4e-b709-75c2f50cb68f" />
 
 ### LAYOUT(BOTTOM)
 <img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/dfbe1dbd-ef03-485b-b297-74668c3a94b1" />
-
-
 
 ## Key Features
 
