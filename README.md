@@ -20,7 +20,7 @@ The Board is designed for reliable High-Speed operations by applying Controlled-
 ## Key Features
 
 #### Processor:
-Xilinx 7000 series FPGA XC7Z010-2CLG400I
+Xilinx 7000 series FPGA [XC7Z010-2CLG400I](https://www.digikey.in/en/products/detail/amd/XC7Z010-2CLG400I/3925757)
 #### PCB Stack-Up : 
 1-Signal / 2-GND / 3-PWR / 4-Signal / 5-GND /
 6-Signal / 7-GND / 8-Signal / 9-GND / 10-Signal.
