@@ -9,8 +9,8 @@ The Board is designed for reliable High-Speed operations by applying Controlled-
 
 
 ### BOTTOM VIEW
-<img width="656" height="355" alt="image" src="https://github.com/user-attachments/assets/838a17c7-7a4d-4294-a7a7-da73ccbc874c" />
-<img width="653" height="358" alt="image" src="https://github.com/user-attachments/assets/2017d985-cff1-41f7-820c-99da1773e012" />
+<img width="656" height="355" alt="FPGA_DSP-DEVBOARD-0" src="https://github.com/user-attachments/assets/3324436c-8cc5-4aac-9645-53119346de3f" />
+
 
 
 ### LAYOUT(TOP)
