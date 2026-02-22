@@ -19,14 +19,14 @@ Xilinx 7000 serires FPGA XC7Z010-2CLG400I
 #### PCB Stack-Up : 
 1-Signal / 2-GND / 3-PWR / 4-Signal / 5-GND /
 6-Signal / 7-GND / 8-Signal / 9-GND / 10-Signal.
-#### OTHER MAIN COMPONENTS:
-- DDR3 LOW-POWER SDRAM [MT41K256M16TW-107:P](https://www.digikey.in/en/products/detail/micron-technology-inc/MT41K256M16TW-107-P/5956623) 96-Pin BGA Package
+#### OTHER COMPONENTS:
+- DDR3 LOW-POWER SDRAM [MT41K256M16TW-107:P](https://www.digikey.in/en/products/detail/micron-technology-inc/MT41K256M16TW-107-P/5956623) 96-Pin BGA Package.
 - EMMC 4GB Persistent Storage [S40FC004C1B2I00000](https://www.mouser.in/ProductDetail/SkyHigh-Memory/S40FC004C1B2I00000?qs=OlC7AqGiEDmWmI7w2huuXw%3D%3D&srsltid=AfmBOopa-qXIfMHvtTR_5AWZUfZLI4wtNtFcMAl9Gwron8jyHMjoyrsx)
  153-pin BGA Package.
 - QSPI Flash [W25Q128JVEIQ](https://www.digikey.in/en/products/detail/winbond-electronics/W25Q128JVEIQ/6819667) 
 - USB-C Programming Interface
-- FTDI Bridge [FT2232HL-REEL](https://www.digikey.in/en/products/detail/ftdi-future-technology-devices-international-ltd/FT2232HL-REEL/1986053) for USB-JTAG and USB-UART
-- Gigabit Ethernet using [RTL8211F-CG](https://www.lcsc.com/product-detail/C187932.html) PHY-Layer and [HR911130A](https://www.lcsc.com/product-detail/C54408.html) RGMII Jack
+- FTDI Bridge [FT2232HL-REEL](https://www.digikey.in/en/products/detail/ftdi-future-technology-devices-international-ltd/FT2232HL-REEL/1986053) for USB-JTAG and USB-UART.
+- Gigabit Ethernet using [RTL8211F-CG](https://www.lcsc.com/product-detail/C187932.html) PHY-Layer and [HR911130A](https://www.lcsc.com/product-detail/C54408.html) RGMII Jack.
 - Board-to-Board Mezanine Connectors
 - Switching Regulator [SY8003ADFC]( https://www.lcsc.com/product-detail/C178236.html) for :
    +1V35 DDRL power; +1V0,+3V3 and +1V8 for the FPGA and other peripherals.
